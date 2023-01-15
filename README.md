@@ -28,3 +28,4 @@ print("{:.2f}".format(dist))
 ![OUTPUT](3.jpg)
 
 ### RESULT:
+Thus findings of distance between two points are successfully executed.
