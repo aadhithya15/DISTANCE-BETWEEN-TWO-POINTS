@@ -16,11 +16,14 @@ Print the answer
 
 ### PROGRAM:
 ```
-import math
+#Program to find the distance between two points.
+#Developed by:Aadhithya.M
+#RegisterNumber:22003465
+import numpy as np
 l1=[10,6]
 l2=[4,2]
-dist=math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
-print("{:.2f}".format(dist))
+distance=np.sqrt(((l1[0]-l2[0])**2)+((l1[1]-l2[1])**2))
+print("{:.2f}".format(distance))
 ```
 
 
